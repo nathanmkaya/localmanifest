@@ -2,8 +2,8 @@
    <manifest>
   
       <!-- Device Tree -->
-      <project path="device/samsung/fortunave3g" name="CarlosArriagaCM/android_device_samsung_fortunave3g" remote="github" revision="pac-6.0" />     
-      <project path="device/samsung/fortuna3g" name="CarlosArriagaCM/android_device_samsung_fortuna3g" remote="github" revision="pac-6.0" />
+      <project path="device/samsung/fortunave3g" name="CarlosArriagaCM/android_device_samsung_fortunave3g" remote="github" revision="cm-13.0" />     
+      <project path="device/samsung/fortuna3g" name="CarlosArriagaCM/android_device_samsung_fortuna3g" remote="github" revision="cm-13.0" />
       <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
       <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
 
